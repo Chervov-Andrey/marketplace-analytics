@@ -1,0 +1,16 @@
+# Окружение и кэш
+venv/
+__pycache__/
+*.pyc
+
+# Пароли (шаблон config.example.ini остаётся)
+config.ini
+
+# Логи
+logs/
+*.log
+
+# Jupyter и редакторы
+.ipynb_checkpoints/
+.vscode/
+.idea/
